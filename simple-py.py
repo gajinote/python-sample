@@ -22,4 +22,4 @@ elapsed_t = end_t - start_t
 print("pi = " , str(pi))
 print("execute time:", str(elapsed_t))
 
-print("elapsed_time: {0}".format(elapsed_t))
+# print("elapsed_time: {0}".format(elapsed_t))
