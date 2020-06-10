@@ -32,7 +32,7 @@ def multi_process(sampleList):
 if __name__=="__main__":
 
     # n回の処理を並列処理
-    num = 10000000
+    num = 100000000
     p_num = 4
     pi = 0
     step = 1.0 / num
